@@ -7,7 +7,7 @@ This example shows how autocomplete search can be implemented.
 2. Open IntelliJ -> Import Project -> Choose the project you just cloned (The root path must contain the pom.xml!) -> Choose Import project from external model -> choose Maven -> Click on Finish -> The IntelliJ will load automatically
 3. For "Root Directory", right click "cs122b-fall22-project4-autocomplete-example" -> Mark Directory as -> sources root
 4. In Tomcat Deployment Configuration, make sure the application context is: /cs122b-fall22-project4-autocomplete-example
-5. To run the example, follow the instructions here: https://canvas.eee.uci.edu/courses/40150/pages/intellij-idea-tomcat-configuration
+5. To run the example, follow the instructions here: https://canvas.eee.uci.edu/courses/50103/pages/intellij-idea-tomcat-configuration
 
 
 ### Brief Explanation
